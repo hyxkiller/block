@@ -42,6 +42,7 @@ function time(){
         cxt.stroke();
         cxt.restore();
     }
+    
     //分钟刻度 
     for(let j=0; j<60; j++){
         cxt.save();
